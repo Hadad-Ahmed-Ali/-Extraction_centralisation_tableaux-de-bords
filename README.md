@@ -1,3 +1,7 @@
+                   Offre : CDD étudiant, rémunéré
+                   Durée : 2 mois
+                   Lieu : Univesité de Lille 1, centre administartif
+
 # Extraction et centralisation des données de l'université de Lille 1 pour la création de tableaux de bord stratégiques
 
                    Contexte 
