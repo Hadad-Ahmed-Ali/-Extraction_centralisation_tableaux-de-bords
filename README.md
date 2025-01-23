@@ -15,7 +15,7 @@ L’Université de Lille, riche de nombreux départements académiques et admini
 
 Objectif : Construire une base de données unifiée et fiable pour intégrer et préparer les données nécessaires à l’analyse.
 
-     1. Identification des sources de données :
+      1. Identification des sources de données :
 
 **Bases couvertes :** données issues des départements de Mathématiques, Informatique, Sciences économiques, Sciences biologiques, et Physique-chimie.
 
@@ -43,7 +43,10 @@ Objectif : Construire une base de données unifiée et fiable pour intégrer et 
       5. Centralisation dans un Data Warehouse :
 
 - Construire une base de données centralisée pour regrouper toutes les informations extraites.
-- Assurer une compatibilité avec les outils de visualisation pour faciliter l’analyse ultérieure : export en fichiers Excel
+
+      Mise à jour automatique des visualisation
+
+L'outils **Power BI** est connecté directement à la **bases Data Warehouse** extraite via des requêtes configurées. Ce processus permet d'automatiser les mises à jour des données affichées sur les tableaux de bord une fois la **bases Data Warehouse** est mise à jours.
 
 ### Phase 2 : Création des tableaux de bord interactifs
 
@@ -60,10 +63,6 @@ Objectif : Fournir des outils d’analyse visuelle et dynamique aux décideurs d
 
 - Suivi des budgets : Analyse des allocations budgétaires par département et filière.
 - Comparaison prévisionnel vs. réalisé : Identifier les écarts et les ajustements nécessaires.
-
-      Mise à jour automatique des visualisation
-
-L'outils **Power BI** est connecté directement à la **bases Data Warehouse** extraite via des requêtes configurées. Ce processus permet d'automatiser les mises à jour des données affichées sur les tableaux de bord une fois la **bases Data Warehouse** est mise à jours.
 
 ### Livrables attendus :
 
