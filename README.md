@@ -1,6 +1,7 @@
-                   Offre : CDD étudiant, rémunéré
-                   Durée : 2 mois
+                   Type de poste : CDD étudiant, Rémunéré, Présenciel et Temps plein 
+                   Date : 05/08/2024 jusqu'au 20/09/2024
                    Lieu : Univesité de Lille 1, centre administartif
+                   
 
 # Extraction et centralisation des données de l'université de Lille 1 pour la création de tableaux de bord stratégiques
 
