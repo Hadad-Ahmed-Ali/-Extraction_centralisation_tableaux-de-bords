@@ -15,9 +15,8 @@ Objectif : Construire une base de données unifiée et fiable pour intégrer et 
 
 1. Identification des sources de données :
 
-Bases couvertes : données issues des départements de Mathématiques, Informatique, Sciences économiques, Sciences biologiques, et Physique-chimie.
-
-**Origines des données :**
+• Bases couvertes : données issues des départements de Mathématiques, Informatique, Sciences économiques, Sciences biologiques, et Physique-chimie.
+• Origines des données :
 - Logiciels d’inscription des étudiants
 - Bases de gestion des examens et notes
 - Données des ressources humaines (emploi du temps, budgets).       
