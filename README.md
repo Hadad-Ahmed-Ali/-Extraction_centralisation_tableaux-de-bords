@@ -1,6 +1,7 @@
-                   Type de poste : CDD étudiant, Rémunéré, Temps plein (Présenciel)
+                   Type de poste : CDD étudiant, rémunéré, à temps plein
+                   Accompagnement : Collaboration avec une informaticienne et un analyste du centre administratif
                    Date : 05/08/2024 jusqu'au 20/09/2024
-                   Lieu : Univesité de Lille 1, centre administartif
+                   Lieu : Université de Lille 1, centre administratif
                    
 
 # Extraction et centralisation des données de l'université de Lille 1 pour la création des tableaux de bords
@@ -35,18 +36,13 @@ Objectif : Construire une base de données unifiée et fiable pour intégrer et 
 - Configuration des procédures stockées dans les bases de données pour automatiser les extractions semestrielles régulières
 - Application des fonctionnalités **SQL Server** pour exécuter automatiquement ces requêtes pour chaque semestre.
 
-      4. Nettoyage et transformation :
+      4. Centralisation dans un Data Warehouse :
 
-- Uniformiser les formats des données (types de variables, etc.) pour garantir leur cohérence.
-- Corriger les anomalies comme les doublons, les valeurs erronées.
-
-      5. Centralisation dans un Data Warehouse :
-
-- Construire une base de données centralisée pour regrouper toutes les informations extraites.
+- Construire une base de données centralisée (Data Warehouse) pour regrouper toutes les informations extraites provenant des différentes sources de données.
 
       Mise à jour automatique des visualisation
 
-L'outils **Power BI** est connecté directement à la **bases Data Warehouse** extraite via des requêtes configurées. Ce processus permet d'automatiser les mises à jour des données affichées sur les tableaux de bord une fois la **bases Data Warehouse** est mise à jours.
+L'outil **Power BI** est connecté directement à la **base Data Warehouse**, extraite via des requêtes SQL configurées. Ce processus permet d'automatiser la mise à jour des données affichées sur les tableaux de bord à chaque fois que le Data Warehouse est mis à jour, assurant ainsi une visualisation en temps réel et une prise de décision éclairée.
 
 ### Phase 2 : Création des tableaux de bord interactifs
 
