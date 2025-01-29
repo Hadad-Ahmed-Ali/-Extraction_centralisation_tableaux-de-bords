@@ -1,6 +1,6 @@
                    Type de poste : CDD étudiant, rémunéré, à temps plein
                    Accompagnement : Collaboration avec une informaticienne et un analyste du centre administratif
-                   Date : 05/08/2024 jusqu'au 20/09/2024
+                   Date : 05/08/2024 jusqu'au 27/09/2024
                    Lieu : Université de Lille 1, centre administratif
                    
 
