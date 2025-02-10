@@ -30,19 +30,13 @@ Objectif : Construire une base de données unifiée et fiable pour intégrer et 
 - Réaliser un audit initial des sources pour évaluer la disponibilité, la fiabilité et la complétude des données.
 - Identifier les éventuelles incohérences ou lacunes susceptibles de limiter l’exploitation des données.
 
-      3. Extraction des données :
+      3. Extraction des données dans divers bases des données :
 
 - Des requêtes SQL spécifiques et optimisées appliquant des techniques de filtrage, de jointures et d'agrégation, pour extraire les informations nécessaires des différentes bases de données
-- Configuration des procédures stockées dans les bases de données pour automatiser les extractions semestrielles régulières
-- Application des fonctionnalités **SQL Server** pour exécuter automatiquement ces requêtes pour chaque semestre.
 
-      4. Centralisation dans un Data Warehouse :
+      4. Centralisation des informations nécessaires dans une  :
 
-- Construire une base de données centralisée (Data Warehouse) pour regrouper toutes les informations extraites provenant des différentes sources de données.
-
-      Mise à jour automatique des visualisation
-
-L'outil **Power BI** est connecté directement à la **base Data Warehouse**, extraite via des requêtes SQL configurées. Ce processus permet d'automatiser la mise à jour des données affichées sur les tableaux de bord à chaque fois que le Data Warehouse est mis à jour, assurant ainsi une visualisation en temps réel et une prise de décision éclairée.
+- Construire une base de données centralisée pour regrouper toutes les informations extraites provenant des différentes sources de données.
 
 ### Phase 2 : Création des tableaux de bord interactifs
 
