@@ -56,7 +56,7 @@ Objectif : Fournir des outils d’analyse visuelle et dynamique aux décideurs d
 
 ### Livrables attendus :
 
-- Un Data Warehouse opérationnel regroupant toutes les données pertinentes.
+- Une base de données unifiée, fiable et opérationnel regroupant toutes les données pertinentes.
 - Un ensemble de tableaux de bord interactifs répondant aux besoins spécifiques des décideurs.
 - Une documentation claire sur le processus de collecte, d’intégration et d’analyse des données.
 
