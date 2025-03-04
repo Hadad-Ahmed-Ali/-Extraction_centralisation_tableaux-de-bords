@@ -40,7 +40,7 @@ Objectif : Construire une base de données unifiée et fiable pour intégrer et 
 
 ### Phase 2 : Création des tableaux de bord interactifs
 
-Objectif : Fournir des outils d’analyse visuelle et dynamique aux décideurs de l’Université pour suivre les performances clés.
+Objectif : Fournir des outils d’analyse visuelle et dynamique aux décideurs de l’Université pour suivre les performances clés. Quelques indicateurs clés :
 
       1. Indicateurs clés sur les étudiants :
 
