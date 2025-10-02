@@ -1,7 +1,7 @@
-                   Type de poste : CDD étudiant, rémunéré, à temps plein
+                   Type de poste : Data Analyst Junior – CDD Étudiant
                    Accompagnement : Collaboration avec une informaticienne et un analyste du centre administratif
                    Date : 05/08/2024 jusqu'au 27/09/2024
-                   Lieu : Université de Lille 1, centre administratif
+                   Lieu : Université de Lille 1, Équipe SI (Systèmes d’Information)
                    
 
 # Extraction et centralisation des données de l'université de Lille 1 pour la création des tableaux de bords
@@ -10,58 +10,39 @@
 
 L’Université de Lille, riche de nombreux départements académiques et administratifs, gère une volumétrie importante de données. Ces données sont dispersées dans des bases hétérogènes et sous-utilisées pour des analyses globales. Ma mission vise à extraire, centraliser et exploiter ces données pour créer des tableaux de bord interactifs, permettant un pilotage efficace des performances et une amélioration des processus décisionnels.
 
-##### Description des missions
+#### Objectifs
 
-### Phase 1 : Extraction et centralisation des données
+      1. Centraliser des données issues de sources hétérogènes (fichiers Drive, API internes).
+      2. Structurer ces données dans BigQuery pour faciliter leur exploitation.
+      3. Créer des tableaux de bord interactifs sous Power BI afin d’apporter un appui à la décision.
 
-Objectif : Construire une base de données unifiée et fiable pour intégrer et préparer les données nécessaires à l’analyse.
+#### Missions réalisées
 
-      1. Identification des sources de données :
+## 1. Recueil et analyse des besoins
 
-**Bases couvertes :** données issues des départements de Mathématiques, Informatique, Sciences économiques, Sciences biologiques, et Physique-chimie.
+      1. Identification des indicateurs clés attendus par les équipes administratives (inscriptions, réussite/échec, suivi budgétaire).
+      2. Formalisation des besoins en tableaux de bord et visualisations adaptées.
+      
+## 2. Modélisation et structuration des données
 
-**Origines des données :**
-- Logiciels d’inscription des étudiants
-- Bases de gestion des examens et notes
-- Données des ressources humaines (emploi du temps, budgets).       
+      1. Intégration et nettoyage de données issues de fichiers Drive et d’API.
+      2. Conception de modèles de données dans BigQuery pour une exploitation robuste et fiable permettant de repondre aux besoins des équipes.
+      
+## 3. Visualisation et restitution
 
-      2. Audit et qualité des données :
+      1. Création de tableaux de bord interactifs dans Power BI, permettant le suivi en temps réel des indicateurs stratégiques.
+      2. Documentation du processus (pipeline de données, schéma de modélisation, organisation des dashboards).
 
-- Réaliser un audit initial des sources pour évaluer la disponibilité, la fiabilité et la complétude des données.
-- Identifier les éventuelles incohérences ou lacunes susceptibles de limiter l’exploitation des données.
+## 4. Ateliers de formation à la datavisualisation
 
-      3. Extraction des données dans divers bases des données :
+      1. Organisation d’ateliers avec les équipes métier pour leur montrer comment naviguer dans les tableaux de bord.
+      2. Recueil des retours des utilisateurs afin d’améliorer l’ergonomie et la pertinence des visualisations.
 
-- Des requêtes SQL spécifiques et optimisées appliquant des techniques de filtrage, de jointures et d'agrégation, pour extraire les informations nécessaires des différentes bases de données
+#### Livrables
 
-      4. Centralisation des informations nécessaires dans une  :
-
-- Construire une base de données centralisée pour regrouper toutes les informations extraites provenant des différentes sources de données.
-
-### Phase 2 : Création des tableaux de bord interactifs
-
-Objectif : Fournir des outils d’analyse visuelle et dynamique aux décideurs de l’Université pour suivre les performances clés. Quelques indicateurs clés :
-
-      1. Indicateurs clés sur les étudiants :
-
-- Taux d’inscription : Par filière, niveau d’études et année universitaire.
-- Taux de réussite et d’échec : Par département et semestre.
-- Suivi des abandons et interruptions de parcours : Identifier les tendances selon l'origine géographique, genre et tranche d’âge.
-- Caractéristiques démographiques : Répartition des étudiants par origine géographique, genre et tranche d’âge.
-
-      2. Indicateurs budgétaires :
-
-- Suivi des budgets : Analyse des allocations budgétaires par département et filière.
-- Comparaison prévisionnel vs. réalisé : Identifier les écarts et les ajustements nécessaires.
-
-### Livrables attendus :
-
-- Une base de données unifiée, fiable et opérationnel regroupant toutes les données pertinentes.
-- Un ensemble de tableaux de bord interactifs répondant aux besoins spécifiques des décideurs.
-- Une documentation claire sur le processus de collecte, d’intégration et d’analyse des données.
-
-
-
+      1. Un entrepôt de données consolidé dans BigQuery.
+      2. Plusieurs tableaux de bord Power BI adaptés aux besoins des équipes métier.
+      3. Une documentation claire pour assurer la réutilisabilité du travail.
 
 
 
