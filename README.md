@@ -1,6 +1,5 @@
                    Type de poste : Data Analyst Junior – CDD Étudiant
                    Accompagnement : Collaboration avec une le chef Data et le Data Engineer
-                   Date : 05/08/2024 jusqu'au 27/09/2024
                    Lieu : Université de Lille 1, Équipe SI (Systèmes d’Information)
                    
 
