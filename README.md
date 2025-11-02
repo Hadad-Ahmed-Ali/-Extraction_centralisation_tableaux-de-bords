@@ -8,7 +8,8 @@ L’Université de Lille, riche de nombreux départements académiques et admini
 
 #### Objectifs
 
-      1. Concevoir et déployer des modèles de données optimisés dans DBT, connectés à BigQuery, afin de structurer les informations analytiques et de clarifier les indicateurs de performance.
+      1. Concevoir et déployer des modèles de données optimisés dans DBT, connectés à BigQuery, 
+         afin de structurer les informations analytiques et de clarifier les indicateurs de performance.
       2. Créer des tableaux de bord interactifs sous Power BI afin d’apporter un appui à la décision.
 
 #### Missions réalisées
@@ -21,11 +22,13 @@ L’Université de Lille, riche de nombreux départements académiques et admini
 ## 2. Modélisation et structuration des données
 
       1. Intégration et nettoyage de données issues de fichiers Drive et des flux ETL.
-      2. Conception de modèles de données dans DBT pour une exploitation robuste et fiable permettant de repondre aux besoins des équipes.
+      2. Conception de modèles de données dans DBT pour une exploitation robuste et fiable permettant 
+         de repondre aux besoins des équipes.
       
 ## 3. Visualisation et restitution
 
-      1. Création de tableaux de bord interactifs dans Power BI, permettant le suivi en temps réel des indicateurs stratégiques.
+      1. Création de tableaux de bord interactifs dans Power BI, permettant le suivi en temps 
+         réel des indicateurs stratégiques.
       2. Documentation du processus (schéma de modélisation et organisation des dashboards).
 
 ## 4. Ateliers de formation à la datavisualisation
